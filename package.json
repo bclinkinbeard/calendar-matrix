@@ -1,0 +1,30 @@
+{
+  "name": "calendar-matrix",
+  "version": "1.0.0",
+  "description": "Returns a two-dimensional array representing the days on a calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bclinkinbeard/calendar-matrix.git"
+  },
+  "keywords": [
+    "calendar",
+    "browser"
+  ],
+  "author": "Ben Clinkinbeard <ben.clinkinbeard@gmail.com> (http://benclinkinbeard.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bclinkinbeard/calendar-matrix/issues"
+  },
+  "homepage": "https://github.com/bclinkinbeard/calendar-matrix",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "sinon": "^1.12.2",
+    "tape": "^3.0.3"
+  }
+}
