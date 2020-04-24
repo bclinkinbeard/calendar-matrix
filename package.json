@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/bclinkinbeard/calendar-matrix",
   "dependencies": {
-    "lodash": "^2.4.1"
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
-    "sinon": "^1.12.2",
-    "tape": "^3.0.3"
+    "sinon": "^9.0.2",
+    "tape": "^4.13.2"
   }
 }
